@@ -58,7 +58,7 @@
     "ejs": "https://registry.npmjs.org/ejs/-/ejs-2.5.7.tgz",
     "escape-string-regexp": "~1.0.5",
     "express": "~4.16.4",
-    "minimist": "~1.2.0",
+    "minimist": "~1.2.3",
     "morgan": "~1.9.1",
     "node.extend": "~2.0.2",
     "ospoint": "~0.2.0",
